@@ -16,7 +16,7 @@ Vista de ingreso
 
 Vista de administrador
 
-![image](https://user-images.githubusercontent.com/71839946/187004156-131a0ded-28be-4147-8104-43fc65533c84.png)
+![image](https://user-images.githubusercontent.com/71839946/187004981-1b317eaf-c3d5-47f8-9242-f816e4033dd6.png)
 
 Vista Usuario
 puede elegir el rol de donante o adoptante
