@@ -7,4 +7,5 @@ El sistema cuenta con un módulo de administración y otro para el registro de l
 
 
 Vista principal
+
 ![image](https://user-images.githubusercontent.com/71839946/187003274-3176b381-ef87-499c-b779-db2546f93a27.png)
